@@ -1,5 +1,5 @@
 # grocery list and prices for guacamole
-* lemon 1.00
-* lime  1.25
-* avocado 2.00
-* salt 0.10
+## Market Festival Foods
+avocado: $1 per unit
+lime: $0.50 per unit
+salt: $2.00 per unit
